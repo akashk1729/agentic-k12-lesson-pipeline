@@ -1,0 +1,46 @@
+{
+  "chapter": 4,
+  "topic": "Finding Directions with a Magnet",
+  "language": "Hindi",
+  "target_duration_seconds": {
+    "minimum": 180,
+    "maximum": 480
+  },
+  "concepts": [
+    {
+      "concept_id": "C4.3.1",
+      "order": 1,
+      "concept": "A freely suspended magnet rests in the north-south direction",
+      "english_page": 66,
+      "hindi_page": 64
+    },
+    {
+      "concept_id": "C4.3.2",
+      "order": 2,
+      "concept": "The two ends of a magnet are called North and South poles",
+      "english_page": 66,
+      "hindi_page": 64
+    },
+    {
+      "concept_id": "C4.3.3",
+      "order": 3,
+      "concept": "Earth behaves like a giant magnet",
+      "english_page": 66,
+      "hindi_page": 64
+    },
+    {
+      "concept_id": "C4.3.4",
+      "order": 4,
+      "concept": "The north-south property of a magnet is used to find directions",
+      "english_page": 66,
+      "hindi_page": 64
+    },
+    {
+      "concept_id": "C4.3.5",
+      "order": 5,
+      "concept": "A magnetic compass has a freely rotating magnetic needle",
+      "english_page": 66,
+      "hindi_page": 64
+    }
+  ]
+}

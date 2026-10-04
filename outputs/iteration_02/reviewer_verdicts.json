@@ -1,0 +1,54 @@
+{
+  "reviewer": "deterministic_reviewer",
+  "status": "CLEAN",
+  "verdicts": [
+    {
+      "beat_id": "B1",
+      "concept_id": "C4.3.1",
+      "verdict": "SUPPORTED",
+      "reason": "Narration is consistent with cited textbook evidence."
+    },
+    {
+      "beat_id": "B2",
+      "concept_id": "C4.3.2",
+      "verdict": "SUPPORTED",
+      "reason": "Narration is consistent with cited textbook evidence."
+    },
+    {
+      "beat_id": "B3",
+      "concept_id": "C4.3.3",
+      "verdict": "SUPPORTED",
+      "reason": "Narration is consistent with cited textbook evidence."
+    },
+    {
+      "beat_id": "B4",
+      "concept_id": "C4.3.4",
+      "verdict": "SUPPORTED",
+      "reason": "Narration is consistent with cited textbook evidence."
+    },
+    {
+      "beat_id": "B5",
+      "concept_id": "C4.3.5",
+      "verdict": "SUPPORTED",
+      "reason": "Narration is consistent with cited textbook evidence."
+    },
+    {
+      "beat_id": "B6",
+      "concept_id": "C4.3.1",
+      "verdict": "SUPPORTED",
+      "reason": "Narration is consistent with cited textbook evidence."
+    },
+    {
+      "beat_id": "B7",
+      "concept_id": "C4.3.4",
+      "verdict": "SUPPORTED",
+      "reason": "Narration is consistent with cited textbook evidence."
+    },
+    {
+      "beat_id": "B8",
+      "concept_id": "C4.3.5",
+      "verdict": "SUPPORTED",
+      "reason": "Narration is consistent with cited textbook evidence."
+    }
+  ]
+}

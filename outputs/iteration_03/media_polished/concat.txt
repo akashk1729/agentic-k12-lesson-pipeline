@@ -1,0 +1,8 @@
+file 'C:/Users/akash/Desktop/k12/k12_lesson_pipeline_starter/outputs/iteration_03/media_polished/beat_01.mp4'
+file 'C:/Users/akash/Desktop/k12/k12_lesson_pipeline_starter/outputs/iteration_03/media_polished/beat_02.mp4'
+file 'C:/Users/akash/Desktop/k12/k12_lesson_pipeline_starter/outputs/iteration_03/media_polished/beat_03.mp4'
+file 'C:/Users/akash/Desktop/k12/k12_lesson_pipeline_starter/outputs/iteration_03/media_polished/beat_04.mp4'
+file 'C:/Users/akash/Desktop/k12/k12_lesson_pipeline_starter/outputs/iteration_03/media_polished/beat_05.mp4'
+file 'C:/Users/akash/Desktop/k12/k12_lesson_pipeline_starter/outputs/iteration_03/media_polished/beat_06.mp4'
+file 'C:/Users/akash/Desktop/k12/k12_lesson_pipeline_starter/outputs/iteration_03/media_polished/beat_07.mp4'
+file 'C:/Users/akash/Desktop/k12/k12_lesson_pipeline_starter/outputs/iteration_03/media_polished/beat_08.mp4'

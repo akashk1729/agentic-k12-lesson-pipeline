@@ -1,0 +1,120 @@
+{
+  "gate": "script_faithfulness_gate",
+  "status": "PASS",
+  "results": [
+    {
+      "beat_id": "B1",
+      "check": "narration_supported_by_citation",
+      "status": "PASS",
+      "concept_id": "C4.3.1",
+      "unsupported_terms": []
+    },
+    {
+      "beat_id": "B2",
+      "check": "narration_supported_by_citation",
+      "status": "PASS",
+      "concept_id": "C4.3.2",
+      "unsupported_terms": []
+    },
+    {
+      "beat_id": "B3",
+      "check": "narration_supported_by_citation",
+      "status": "PASS",
+      "concept_id": "C4.3.3",
+      "unsupported_terms": []
+    },
+    {
+      "beat_id": "B4",
+      "check": "narration_supported_by_citation",
+      "status": "PASS",
+      "concept_id": "C4.3.4",
+      "unsupported_terms": []
+    },
+    {
+      "beat_id": "B5",
+      "check": "narration_supported_by_citation",
+      "status": "PASS",
+      "concept_id": "C4.3.5",
+      "unsupported_terms": []
+    },
+    {
+      "beat_id": "B6",
+      "check": "narration_supported_by_citation",
+      "status": "PASS",
+      "concept_id": "C4.3.1",
+      "unsupported_terms": []
+    },
+    {
+      "beat_id": "B7",
+      "check": "narration_supported_by_citation",
+      "status": "PASS",
+      "concept_id": "C4.3.4",
+      "unsupported_terms": []
+    },
+    {
+      "beat_id": "B8",
+      "check": "narration_supported_by_citation",
+      "status": "PASS",
+      "concept_id": "C4.3.5",
+      "unsupported_terms": []
+    },
+    {
+      "beat_id": "B1",
+      "check": "source_quote_exists",
+      "status": "PASS",
+      "concept_id": "C4.3.1"
+    },
+    {
+      "beat_id": "B2",
+      "check": "source_quote_exists",
+      "status": "PASS",
+      "concept_id": "C4.3.2"
+    },
+    {
+      "beat_id": "B3",
+      "check": "source_quote_exists",
+      "status": "PASS",
+      "concept_id": "C4.3.3"
+    },
+    {
+      "beat_id": "B4",
+      "check": "source_quote_exists",
+      "status": "PASS",
+      "concept_id": "C4.3.4"
+    },
+    {
+      "beat_id": "B5",
+      "check": "source_quote_exists",
+      "status": "PASS",
+      "concept_id": "C4.3.5"
+    },
+    {
+      "beat_id": "B6",
+      "check": "source_quote_exists",
+      "status": "PASS",
+      "concept_id": "C4.3.1"
+    },
+    {
+      "beat_id": "B7",
+      "check": "source_quote_exists",
+      "status": "PASS",
+      "concept_id": "C4.3.4"
+    },
+    {
+      "beat_id": "B8",
+      "check": "source_quote_exists",
+      "status": "PASS",
+      "concept_id": "C4.3.5"
+    },
+    {
+      "check": "planned_concepts_covered",
+      "status": "PASS",
+      "missing_concepts": []
+    },
+    {
+      "check": "numbers_supported",
+      "status": "PASS",
+      "unsupported_numbers": []
+    }
+  ]
+}
