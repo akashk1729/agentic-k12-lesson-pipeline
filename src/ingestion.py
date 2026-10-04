@@ -7,7 +7,7 @@ import fitz
 
 ROOT = Path(__file__).resolve().parent.parent
 
-RAW_DIR = ROOT / "data" / "raw"
+RAW = ROOT / "data" / "raw"
 OUTPUT_DIR = ROOT / "data" / "extracted"
 
 
@@ -95,8 +95,8 @@ def save_json(data, output_path: Path):
 
 def main():
 
-    english_pdf = RAW_DIR / "english.pdf"
-    hindi_pdf = RAW_DIR / "hindi.pdf"
+    english_pdf = RAW / "english.pdf"
+    hindi_pdf = RAW / "hindi.pdf"
 
     english_output = (
         OUTPUT_DIR / "chapter4_english.json"

@@ -1,0 +1,71 @@
+{
+  "gate": "concept_map_quote_gate",
+  "status": "PASS",
+  "results": [
+    {
+      "concept_id": "C4.3.1",
+      "english": {
+        "concept_id": "C4.3.1_EN",
+        "status": "PASS",
+        "reason": "Quote found in textbook."
+      },
+      "hindi": {
+        "concept_id": "C4.3.1_HI",
+        "status": "PASS",
+        "reason": "Quote found in textbook."
+      }
+    },
+    {
+      "concept_id": "C4.3.2",
+      "english": {
+        "concept_id": "C4.3.2_EN",
+        "status": "PASS",
+        "reason": "Quote found in textbook."
+      },
+      "hindi": {
+        "concept_id": "C4.3.2_HI",
+        "status": "PASS",
+        "reason": "Quote found in textbook."
+      }
+    },
+    {
+      "concept_id": "C4.3.3",
+      "english": {
+        "concept_id": "C4.3.3_EN",
+        "status": "PASS",
+        "reason": "Quote found in textbook."
+      },
+      "hindi": {
+        "concept_id": "C4.3.3_HI",
+        "status": "PASS",
+        "reason": "Quote found in textbook."
+      }
+    },
+    {
+      "concept_id": "C4.3.4",
+      "english": {
+        "concept_id": "C4.3.4_EN",
+        "status": "PASS",
+        "reason": "Quote found in textbook."
+      },
+      "hindi": {
+        "concept_id": "C4.3.4_HI",
+        "status": "PASS",
+        "reason": "Quote found in textbook."
+      }
+    },
+    {
+      "concept_id": "C4.3.5",
+      "english": {
+        "concept_id": "C4.3.5_EN",
+        "status": "PASS",
+        "reason": "Quote found in textbook."
+      },
+      "hindi": {
+        "concept_id": "C4.3.5_HI",
+        "status": "PASS",
+        "reason": "Quote found in textbook."
+      }
+    }
+  ]
+}
